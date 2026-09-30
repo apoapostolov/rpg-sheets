@@ -1,9 +1,10 @@
 # RPG Sheets
 
-A small collection of PDF character sheets for Call of Cthulhu 1920s, Delta
-Green, and Old-School Essentials.
+A small shelf of ready-to-print PDF character sheets for *Call of Cthulhu*
+1920s, *Delta Green*, and *Old-School Essentials*. Pick the game, open the
+sheet, and get back to making the character.
 
-## Features
+## Choose a sheet
 
 - [`coc1920s.pdf`](coc1920s.pdf) — Call of Cthulhu 1920s sheet
 - [`deltagreensheet.pdf`](deltagreensheet.pdf) — Delta Green sheet
@@ -11,7 +12,7 @@ Green, and Old-School Essentials.
 - [`ose_sheet_magicuser.pdf`](ose_sheet_magicuser.pdf) — Old-School Essentials
   magic-user sheet
 
-## Usage
+## Use it
 
 Open the PDF that matches your game, or download it from the repository for
 local use. The repository contains the finished PDFs only; it does not include

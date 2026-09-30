@@ -1,8 +1,17 @@
-# RPG Sheets
+<!-- markdownlint-disable MD033 -->
 
-A small shelf of ready-to-print PDF character sheets for *Call of Cthulhu*
-1920s, *Delta Green*, and *Old-School Essentials*. Pick the game, open the
-sheet, and get back to making the character.
+<div align="center">
+
+  <h1>RPG Sheets</h1>
+
+  <p>Pick a ready-to-print character sheet and get back to making the character.</p>
+
+  <p>
+    <a href="#readme"><img src="https://img.shields.io/badge/Type-PDF%20collection-555" alt="Type: PDF collection"></a>
+    <a href="#readme"><img src="https://img.shields.io/badge/Format-PDF-555" alt="Format: PDF"></a>
+  </p>
+
+</div>
 
 ## Choose a sheet
 
